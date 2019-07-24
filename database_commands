@@ -1,0 +1,16 @@
+
+// Create the table which has an automatic id key and ensures that each row has a name
+create table patients(
+	id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	name TEXT NOT NULL,
+	city TEXT,
+	age INTEGER);
+
+// List the schema of the table
+pragma table_info(patients);
+
+// Insert an object into the table
+insert into patients (name, city, age) values("name", "city", age);
+
+// List all the rows of the table
+select * from patients;
