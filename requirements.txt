@@ -50,7 +50,7 @@ namcap==3.2.7
 npyscreen==4.10.5
 packaging==19.0
 pacman-mirrors==4.14.2
-paramiko==2.4.2
+paramiko==2.10.1
 passlib==1.7.1
 pbr==5.4.1
 pep517==0.5.0
