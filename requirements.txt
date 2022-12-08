@@ -7,7 +7,7 @@ Beaker==1.10.1
 blinker==1.4
 btrfsutil==1.1.1
 CacheControl==0.12.5
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
